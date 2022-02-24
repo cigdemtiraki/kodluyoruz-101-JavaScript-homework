@@ -23,7 +23,7 @@ function showTime() {
 
     let time = hour + ":" + minute + ":" + second + " " + dayNames;
     document.getElementById("myClock").innerText= time;
-    document.getElementById("myClock").textContent = time;
+   
 
 
 
